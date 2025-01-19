@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=array
+//  https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=array
 
 int binarySearch(vector<int> nums, int l, int r, int x) {
     while(l <= r) {
