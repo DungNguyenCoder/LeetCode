@@ -64,6 +64,6 @@ Feel free to submit issues or pull requests for alternative solutions or suggest
 
 - LeetCode Profile: [Nguyễn Mạnh Dũng](https://leetcode.com/u/DungNguyenCoder/)
 - GitHub: [Nguyễn Mạnh Dũng](https://github.com/DungNguyenCoder)
-- Gmail: [Dũng Nguyễn](https://www.facebook.com/DungNguyenCoder)
+- Gmail: [dungnickchinh1909@gmail.com]
 
 ---
